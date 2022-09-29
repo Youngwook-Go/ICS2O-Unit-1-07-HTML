@@ -1,0 +1,17 @@
+.mdl-ripple {
+  background: #000;
+  opacity: 0.001;
+}
+.mdl-layout__header-row {
+  align-items: center;
+  justify-content: center;
+}
+.mdl-layout__content {
+  padding-left: 10pt;
+  padding-right: 10pt;
+  padding-top: 15pt;
+}
+
+body {
+  background-color: lightskyblue;
+}
